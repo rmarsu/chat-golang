@@ -1,5 +1,8 @@
 Chat using Golang
 
+!!DOCKER COMMANDS IN MAKEFILE!!
+
+
 Get Rooms
 
  curl "http://localhost:8080/ws/joinRooms"
